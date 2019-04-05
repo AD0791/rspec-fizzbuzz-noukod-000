@@ -6,6 +6,6 @@ def fizzbuzz num
     "Buzz"
   end
   if (num % 3 == 0) && (num % 5 == 0)
-    "fizzbuzz"
+    "Fizzbuzz"
   end
 end
